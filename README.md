@@ -1,0 +1,2 @@
+# Statistica
+PrimoAnnoUni - Statistica -> R
